@@ -9,11 +9,14 @@ Exemplo de saída: "Aluno aprovado." ou "Aluno reprovado".
 Console.WriteLine("Digite o seu nome:");
 string nome  = Console.ReadLine();
 
-Console.WriteLine("Digite a sua nota:");
+Console.WriteLine("Digite a sua nota (entre 0 a 10):");
 float nota  = float.Parse(Console.ReadLine());
 
-if (nota >= 6)
-    Console.WriteLine($"O aluno {nome} foi aprovado");
+if (nota <= 10)
+    if (nota >= 6)
+        Console.WriteLine($"O aluno {nome} foi aprovado");
 
+    else
+        Console.WriteLine($"O aluno {nome} foi reprovado");
 else
-    Console.WriteLine($"O aluno {nome} foi reprovado");
+    Console.WriteLine("Nota inválida");

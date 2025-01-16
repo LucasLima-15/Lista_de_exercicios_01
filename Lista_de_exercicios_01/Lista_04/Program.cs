@@ -7,7 +7,7 @@ Descrição: Crie um programa que verifique se um número inserido pelo usuário
 Exemplo de saída: "O número está entre 1 e 100." ou "O número não está entre 1 e 100."
    */
 
-Console.WriteLine("Digite um número");
+Console.WriteLine("Digite um número:");
 float num  = float.Parse(Console.ReadLine());
 
 
