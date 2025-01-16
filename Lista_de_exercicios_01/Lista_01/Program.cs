@@ -4,7 +4,7 @@ Descrição: Escreva um programa que solicite ao usuário dois números e determ
 Exemplo de saída: "O primeiro número é maior.", "O segundo número é maior." ou "Os números são iguais.
  */
 
-Console.WriteLine("Digite um número");
+Console.WriteLine("Digite um número:");
 int n1 = int.Parse (Console.ReadLine());
 
 

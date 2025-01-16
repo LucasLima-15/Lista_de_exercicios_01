@@ -7,7 +7,7 @@ Descrição: Desenvolva um programa que solicite ao usuário um número. O progr
 Exemplo de saída: "O número é positivo.", "O número é negativo." ou "O número é zero".
    */
 
-Console.WriteLine("Digite um número");
+Console.WriteLine("Digite um número:");
 float n1 = float.Parse(Console.ReadLine());
 
 if (n1 > 0)
