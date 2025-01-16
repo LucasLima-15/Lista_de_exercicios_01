@@ -12,7 +12,7 @@ string nome  = Console.ReadLine();
 Console.WriteLine("Digite a sua nota:");
 float nota  = float.Parse(Console.ReadLine());
 
-if (nota => 6)
+if (nota >= 6)
     Console.WriteLine($"O aluno {nome} foi aprovado");
 
 else
