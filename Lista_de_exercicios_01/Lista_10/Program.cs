@@ -8,3 +8,11 @@ Descrição: Escreva um programa que solicite o valor de uma compra e verifique 
 Saída de amostra: "Valor descontado: [valor final]." ou "Valor original: [valor]
  
     */
+Console.WriteLine("Digite o valor da sua compra:");
+float valor = float.Parse(Console.ReadLine());
+
+if (valor > 100)
+    Console.WriteLine($"A sua compra passou de {valor} para {valor - valor * 0.1}");
+
+else
+    Console.WriteLine($"A sua compra não contem desconto, {valor} é o valor a pagar");

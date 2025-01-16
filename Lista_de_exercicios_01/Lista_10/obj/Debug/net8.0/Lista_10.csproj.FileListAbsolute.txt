@@ -1,0 +1,15 @@
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\bin\Debug\net8.0\Lista_10.exe
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\bin\Debug\net8.0\Lista_10.deps.json
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\bin\Debug\net8.0\Lista_10.runtimeconfig.json
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\bin\Debug\net8.0\Lista_10.dll
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\bin\Debug\net8.0\Lista_10.pdb
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.AssemblyInfoInputs.cache
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.AssemblyInfo.cs
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.csproj.CoreCompileInputs.cache
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.sourcelink.json
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.dll
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\refint\Lista_10.dll
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.pdb
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\Lista_10.genruntimeconfig.cache
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_10\obj\Debug\net8.0\ref\Lista_10.dll

@@ -12,15 +12,12 @@ string nome = Console.ReadLine();
 Console.WriteLine("Digite a sua nota:");
 float nota  = float.Parse(Console.ReadLine());
 
-if (nota < 10)
-    if (nota <= 5)
-        Console.WriteLine($"A nota do {nome} é baixa");
+if (nota <= 5)
+    Console.WriteLine($"A nota do {nome} é baixa");
 
-    else if (nota <= 7)
-        Console.WriteLine($"A nota do {nome} é regular");
+else if (nota <= 7)
+    Console.WriteLine($"A nota do {nome} é regular");
 
-    else if (nota <= 9)
-        Console.WriteLine($"A nota do {nome} é execelente");
+else if (nota <= 9)
+    Console.WriteLine($"A nota do {nome} é execelente");
 
-else
-    Console.WriteLine("Nota inválida");
