@@ -10,7 +10,7 @@ int n1 = int.Parse (Console.ReadLine());
 
 
 if (n1 % 2 == 0)
-    Console.WriteLine("O número que voce digitou é par");
+    Console.WriteLine("O número que você digitou é par");
 
 else
-    Console.WriteLine("O número que voce digitou é ínpar");
+    Console.WriteLine("O número que você digitou é ínpar");

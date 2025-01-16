@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D3318BF6-0908-4DEE-AA70-14EB309680BE}|Lista_02\\Lista_02.csproj|c:\\users\\pedro.lalima\\source\\repos\\lista_de_exercicios_01\\lista_de_exercicios_01\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3318BF6-0908-4DEE-AA70-14EB309680BE}|Lista_02\\Lista_02.csproj|solutionrelative:lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57F472F4-BA81-4457-B604-DE479C49AA01}|Lista_01\\Lista_01.csproj|c:\\users\\pedro.lalima\\source\\repos\\lista_de_exercicios_01\\lista_de_exercicios_01\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F472F4-BA81-4457-B604-DE479C49AA01}|Lista_01\\Lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2DA34570-E762-4AEC-92BA-6070A454D357}|Lista_03\\Lista_03.csproj|c:\\users\\pedro.lalima\\source\\repos\\lista_de_exercicios_01\\lista_de_exercicios_01\\lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DA34570-E762-4AEC-92BA-6070A454D357}|Lista_03\\Lista_03.csproj|solutionrelative:lista_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3318BF6-0908-4DEE-AA70-14EB309680BE}|Lista_02\\Lista_02.csproj|c:\\users\\pedro.lalima\\source\\repos\\lista_de_exercicios_01\\lista_de_exercicios_01\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3318BF6-0908-4DEE-AA70-14EB309680BE}|Lista_02\\Lista_02.csproj|solutionrelative:lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_05\\Program.cs",
               "RelativeDocumentMoniker": "Lista_05\\Program.cs",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "Lista_05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:26:31.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:26:31.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_04\\Program.cs",
               "RelativeDocumentMoniker": "Lista_04\\Program.cs",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "Lista_04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:25:17.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:25:17.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_03\\Program.cs",
               "RelativeDocumentMoniker": "Lista_03\\Program.cs",
@@ -88,38 +86,37 @@
               "RelativeToolTip": "Lista_03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:23:47.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:23:47.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_02\\Program.cs",
               "RelativeDocumentMoniker": "Lista_02\\Program.cs",
               "ToolTip": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_02\\Program.cs",
               "RelativeToolTip": "Lista_02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T17:22:46.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_01\\Program.cs",
               "RelativeDocumentMoniker": "Lista_01\\Program.cs",
               "ToolTip": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_01\\Program.cs",
               "RelativeToolTip": "Lista_01\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T17:11:58.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_06\\Program.cs",
               "RelativeDocumentMoniker": "Lista_06\\Program.cs",
@@ -127,12 +124,11 @@
               "RelativeToolTip": "Lista_06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:27:33.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:27:33.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_07\\Program.cs",
               "RelativeDocumentMoniker": "Lista_07\\Program.cs",
@@ -140,12 +136,11 @@
               "RelativeToolTip": "Lista_07\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:28:36.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:28:36.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_10\\Program.cs",
               "RelativeDocumentMoniker": "Lista_10\\Program.cs",
@@ -153,12 +148,11 @@
               "RelativeToolTip": "Lista_10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:31:16.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:31:16.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_09\\Program.cs",
               "RelativeDocumentMoniker": "Lista_09\\Program.cs",
@@ -166,12 +160,11 @@
               "RelativeToolTip": "Lista_09\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:30:22.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:30:22.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\Lista_de_exercicios_01\\Lista_de_exercicios_01\\Lista_08\\Program.cs",
               "RelativeDocumentMoniker": "Lista_08\\Program.cs",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "Lista_08\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:29:32.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:29:32.467Z"
             }
           ]
         }

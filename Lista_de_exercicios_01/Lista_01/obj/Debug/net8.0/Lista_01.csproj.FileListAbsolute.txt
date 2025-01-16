@@ -12,3 +12,4 @@ C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01
 C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_01\obj\Debug\net8.0\Lista_01.pdb
 C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_01\obj\Debug\net8.0\Lista_01.genruntimeconfig.cache
 C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_01\obj\Debug\net8.0\ref\Lista_01.dll
+C:\Users\pedro.lalima\source\repos\Lista_de_exercicios_01\Lista_de_exercicios_01\Lista_01\obj\Debug\net8.0\Lista_01.sourcelink.json
